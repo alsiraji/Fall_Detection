@@ -18,8 +18,8 @@ Parameters:
 vid_num: Set an identifier or number for the video.
 VIDPATH: The path where the video is located
 TEST:  A bool indicating whether to start running or not.
-# Rest of the parameters should not be changes if you want the full output
-#You can comment any of three "createDemoVideo" to get a specific model output.
+Rest of the parameters should not be changes if you want the full output
+You can comment any of three "createDemoVideo" to get a specific model output.
 
 Output for a single video input
 	* six Annotated Videos: Videos with pose landmarks and fall detection annotations.
