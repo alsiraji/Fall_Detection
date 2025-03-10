@@ -1,5 +1,5 @@
 # Fall Detection from Video Footage
-
+![Demo video](https://github.com/alsiraji/Fall_Detection/blob/main/CODE/ezgif-4b91b18c1aa3d6.gif)
 ## Overview
 This repository contains a vision-based fall detection system developed using deep learning techniques and pose estimation models. The goal is to detect falls from video footage accurately and efficiently. The project employs pre-trained models (MediaPipe and MoveNet) combined with classification algorithms (SVM, MLP, LSTM) to classify fall and non-fall events.
 This project aims to address this challenge by leveraging computer vision and machine learning techniques.
@@ -20,7 +20,6 @@ The project uses the following publicly available datasets:
 1. Prepare your datasets by following the data preprocessing steps.
 2. Train the models using the training scripts provided.
 3. Test the models on the URFD dataset.
-
 
 ## Installation
 
