@@ -1,4 +1,4 @@
-                      **AI-RDP -- Fall Detection: from video footage, Group: Fantastic Four**
+**Fall Detection: from video footage**
 
 You only need to run the Prototypes file it is saved as "PrototypesDemo.ipynb".
 It's best to use GoogleColab as the code was developed on it. 
