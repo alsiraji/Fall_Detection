@@ -66,4 +66,3 @@ For each video input, the output includes:
   - `frame_height`: Height of the frame.
 
 All files are saved in the specified `OUT_directory`.
-```
